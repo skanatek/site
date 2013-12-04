@@ -3,9 +3,10 @@ layout: jobs
 title: Software Engineer internship for students in Stockholm, Göteborg, Malmö and other Swedish cities.
 ---
 
-## Arbetspraktik: learn to code for real and get paid!
+## Arbetspraktik: learn to code for real and get paid, while you study!
 ### Software Engineer internship for students in Stockholm, Göteborg, Malmö and other Swedish cities.
 
+*We are looking for IT and Software students who would like to enter the industry. This internship is flexible, which means that you can continue your studies while doing this internship*
 
 *The internship is powered by the [Arbetspraktik program](http://www.arbetsformedlingen.se/download/18.46ccfec5127ddccec778000492/) of the Swedish Labour Agency. You need to be registered as unemployed at [Arbetsförmedlingen](http://www.arbetsformedlingen.se/) to apply for this type of support.*
 
@@ -28,6 +29,7 @@ title: Software Engineer internship for students in Stockholm, Göteborg, Malmö
 
 ### Position advantages:
 - Remote position (no need to visit the office). You are free to work at home with your laptop as long as you do your daily reports (tasks completed, time spent, time estimated);
+- Flexible schedule. You can do your studies at school while being an intern;
 - Hands-on experience. You will get tasks which are directly related to implementing software for our clients;
 - Informal and flexible atmosphere. Do you have a suit? Good, you do not need one at this position;
 - Your voice can be heard. The more experience you will accumulate over time, the more freedom in decision making you will get.
